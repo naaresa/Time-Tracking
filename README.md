@@ -32,7 +32,7 @@ python --version
    ```
 2. **Navigate to the Directory**  
    ```bash
-   cd time-tracking-program
+   cd Time-Tracking
    ```
 3. **Run the Script**  
    ```bash
