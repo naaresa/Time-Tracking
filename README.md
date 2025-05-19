@@ -28,7 +28,7 @@ python --version
 ## Usage
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/time-tracking-program.git
+   git clone https://github.com/your-username/Time-tracking.git
    ```
 2. **Navigate to the Directory**  
    ```bash
