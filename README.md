@@ -36,7 +36,7 @@ python --version
    ```
 3. **Run the Script**  
    ```bash
-   Hourly Payment Tracker.py
+   Hourly_payment_tracker.py
    ```
 4. **Follow Prompts**  
    - Enter the task type (e.g., "Consulting").
